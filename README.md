@@ -1,7 +1,8 @@
 <h1>Hi, I'm Digvijay D V <br/>
 <a href="https://github.com/Digvijay-git/Digvijay/">Generative AI Engineer</a>,
-<a href="https://www.linkedin.com/in/digvijay-dv-289825173/">AI Professional</a><br/>
-<p>AI & ML Engineer (MTech in AI/ML) with 6 years in Salesforce, specializing in Generative AI, RAG, NLP, and Conversational AI. Experienced in LangChain, LangGraph, Hugging Face, and AWS, with a proven track record of building AI-powered assistants and enterprise automation solutions.</p>
+<a href="https://www.linkedin.com/in/digvijay-dv-289825173/">AI Professional</a></h1> <br/>
+  
+<b>AI & ML Engineer (MTech in AI/ML) with 6 years in Salesforce, specializing in Generative AI, RAG, NLP, and Conversational AI. Experienced in LangChain, LangGraph, Hugging Face, and AWS, with a proven track record of building AI-powered assistants and enterprise automation solutions.</b>
 
 <h2>👨‍💻 Gen AI Projects:</h2>
 
