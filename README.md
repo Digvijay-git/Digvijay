@@ -1,5 +1,5 @@
 <h1>Hi, I'm Digvijay D V <br/>
-<a href="https://github.com/joshmadakor1">Generative AI Engineer</a>
+<a href="https://github.com/Digvijay-git/Digvijay/">Generative AI Engineer</a>
 <a href="https://www.linkedin.com/in/digvijay-dv-289825173/">AI Professional</a>, 
 
 <h2>👨‍💻 Gen AI Projects:</h2>
