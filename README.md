@@ -24,6 +24,7 @@
 <h2>📺YouTube Project Demonstration Videos</h2>
 
 - [Conversational AI-Driven Intelligent Agent-Based System for Automated Software Development Lifecycle](https://youtu.be/NWY9AIBczGg)
+- [Conversational AI-Driven Intelligent Agent-Based System for Automated Software Development Lifecycle with Human in the loop](https://youtu.be/Gp6qSRf_2zM)
 - [Salesforce Debug Log Analysis Using Generative AI](https://youtu.be/WclK1O24lBc)
 
 <h2> 🤳 Connect with me:</h2>
